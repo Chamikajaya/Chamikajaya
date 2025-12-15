@@ -14,6 +14,9 @@ I specialize in building cost-effective, scalable cloud infrastructure and intel
 * 🛠 **Engineering Focus:** Designing resilient **Serverless architectures**, enforcing **Infrastructure as Code (IaC)** best practices, and implementing automated **GitOps workflows** for continuous delivery.
 * 🤖 **AI Integration:** Bridging the gap between DevOps and AI by deploying **Retrieval-Augmented Generation (RAG)** systems and **Computer Vision pipelines** into production.
 
+✉️ **How to reach me:**<br>
+🚀 [hirosanajaya2001@gmail.com](mailto:hirosanajaya2001@gmail.com)<br>
+🚀 [chamika.21@cse.mrt.ac.lk](mailto:chamika.21@cse.mrt.ac.lk)
 
 ---
 
